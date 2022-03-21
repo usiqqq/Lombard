@@ -1,0 +1,7 @@
+
+1 zegarek zastawiony 450 650 2019.07.23 
+2 perly do_sprzedazy 600 750 2008.03.21 
+3 pierscionek zastawiony 890 1004 2018.05.17 
+4 zegarek zastawiony 670 830 2009.10.11 
+5 telefon do_sprzedazy 700 920 2013.12.06 
+6 zegarek zastawiony 200 250 2020.01.20
